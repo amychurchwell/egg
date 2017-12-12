@@ -1,0 +1,18 @@
+
+#egg-one {
+  width: 21%;
+  height: auto;
+  transform: rotate(116deg);
+  position: absolute;
+  left: 1%;
+  top: 1%;
+}
+
+#egg-two {
+  width: 23%;
+  position: absolute;
+  height: auto;
+  transform: rotate(30deg);
+  left: -10px;
+  top: 10%;
+}
